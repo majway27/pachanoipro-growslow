@@ -1,10 +1,9 @@
 {
-  "name": "dkanban",
+  "name": "pachanoipro-growslow",
   "version": "1.0.0",
-  "description": "Distributed Kanban board that stores data in Gun",
+  "description": "Pachanoi Pro, A Cultivator's R&R (Record & Reference)",
   "main": "index.js",
   "directories": {
-    "doc": "docs",
     "lib": "lib"
   },
   "scripts": {
@@ -14,24 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/estebanrfp/dKanban.git"
+    "url": "git@github.com:majway27/pachanoipro-growslow.git"
   },
-  "keywords": [
-    "gun",
-    "kanban",
-    "task",
-    "board",
-    "javascript",
-    "typescript",
-    "distributed",
-    "encrypted"
-  ],
-  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com>",
+  "author": "Majway <majway27.2@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/estebanrfp/dKanban/issues"
-  },
-  "homepage": "https://github.com/estebanrfp/dKanban#readme",
   "devDependencies": {
     "es6-promise": "^4.2.8",
     "eslint": "8.14.0",
