@@ -16,12 +16,12 @@ export default {
       base: './',
       manifest: {
         "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-        "name": "HackerWeb",
-        "short_name": "HackerWeb",
+        "name": "Pachanoi Pro",
+        "short_name": "PachanoiPro",
         "start_url": ".",
         "display": "standalone",
         "background_color": "#fff",
-        "description": "A readable Hacker News app.",
+        "description": "A Cultivator's Resource",
         "icons": [{
           "src": "android-chrome-192x192.png",
           "sizes": "192x192",
