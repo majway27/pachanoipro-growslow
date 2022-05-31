@@ -33,7 +33,7 @@ export default {
         }],
       },
       workbox: {
-      // workbox options for generateSW
+      // /workbox options for generateSW
         swDest: './dist/sw.js',
         globDirectory: './dist',
         skipWaiting: true
